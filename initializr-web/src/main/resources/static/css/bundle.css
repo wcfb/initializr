@@ -583,7 +583,8 @@ a.btn-ico {
   position: absolute;
   top: 10px;
   right: 20px;
-  color: #ccc; }
+  color: #ccc;
+  width: 200px; }
   .quick-links a {
     margin: 0 8px;
     padding-left: 24px;
